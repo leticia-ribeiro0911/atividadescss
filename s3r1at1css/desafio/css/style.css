@@ -1,0 +1,31 @@
+body {
+    background-color: #f7fbfd;
+}
+
+#cabecalho {
+    background-color: #17324d;
+}
+
+.titulo {
+    color: #0b6680;
+}
+
+.texto {
+    color: #5f7484;
+}
+
+.banner {
+    background-color: #d9e8ef;
+}
+
+.cursos {
+    background-color: #ffffff;
+}
+
+.contato {
+    background-color: #f2f8fa;
+}
+
+.rodape {
+    background-color: #17324d;
+}

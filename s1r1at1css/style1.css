@@ -1,0 +1,20 @@
+body {
+    background-color: #f7fbfd;
+}
+
+h1 {
+    color: #17324d;
+}
+
+h2 {
+    color: #0b6680;
+}
+
+p {
+    color: #5f7484;
+}
+
+section {
+    background-color: #ffffff;
+    border: 8px solid #d9e8ef;
+}
